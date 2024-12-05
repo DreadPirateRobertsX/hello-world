@@ -9,3 +9,5 @@ router.register(r'projects', ProjectsViewSet)
 router.register(r'categories', CategoryViewSet)
 
 urlpatterns = router.urls
+
+# tres
